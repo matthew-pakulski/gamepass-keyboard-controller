@@ -1,4 +1,6 @@
 ;#AutoIt3Wrapper_Run_Debug_Mode=y
+; v0.0.1
+; https://github.com/matthew-pakulski/gamepass-keyboard-controller
 #include <Misc.au3>
 
 ; Press Esc to terminate script, Pause/Break to "pause"
